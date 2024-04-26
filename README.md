@@ -1,5 +1,5 @@
 # Luong Huu Luan - Web Developer
-
+![Luong Huu Luan](https://raw.githubusercontent.com/LuongHuuLuan/Profile/main/avatar.jpg)
 ## Profile
 
 - **Date/Place Of Birth:** 27/07/2001, Tien Giang
