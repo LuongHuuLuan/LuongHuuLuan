@@ -1,4 +1,4 @@
-# Luong Huu Luan - Web Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=FIre+Code&weight=800&size=24&duration=2000&pause=100&multiline=true&repeat=false&random=false&width=435&height=60&lines=Hey+there!+I%27m;LUONG+HUU+LUAN+-%20Web%20Developer%F0%9F%91%8B)](https://git.io/typing-svg)
 ## Profile
 
 - **Date/Place Of Birth:** 27/07/2001, Tien Giang
